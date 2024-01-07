@@ -1,6 +1,6 @@
 # Syntax
 tpl = ('item1', 'item2', 'item3', 'item4')
-lst = list(tpl)
+lst = list(tpl) 
 fruits = ('banana', 'orange', 'mango', 'lemon')
 fruits = list(fruits)
 fruits[0] = 'apple'
